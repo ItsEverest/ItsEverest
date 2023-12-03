@@ -1,5 +1,5 @@
 # Hello there 👋
-##Entrepreneaur with a dream
+## Entrepreneaur with a dream
 <!--
 **ItsEverest/ItsEverest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
