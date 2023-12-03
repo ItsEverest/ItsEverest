@@ -1,5 +1,5 @@
 # Hello there 👋
-###Entreprenaur with a dream
+### Entreprenaur with a dream
 Hi! I'm Arek and I currently study Computer Science in Poland
 <!--
 **ItsEverest/ItsEverest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
